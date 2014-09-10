@@ -1,0 +1,31 @@
+{
+  "name": "angular-webpack-gulp",
+  "version": "0.0.1",
+  "description": "Seed project for Angular Apps using modules bundled via Webpack and development tools powered by Gulp.",
+  "repository": "https://github.com/leafn0de/angular-webpack-gulp.git",
+  "main": "main.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "angular",
+    "webpack",
+    "gulp"
+  ],
+  "contributors": [{
+	  	"name": "Helen Durrant",
+	  	"email": "helen@leafnode.io"
+  	}, {
+	  	"name": "Lisa Quayle",
+	  	"email": "lisa@leafnode.io"
+	}],
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.2.23",
+    "jquery": "^2.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "webpack": "^1.4.0-beta4"
+  }
+}
